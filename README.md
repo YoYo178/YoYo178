@@ -9,7 +9,7 @@ I’m a backend-focused software engineer who builds real systems and
 learns them the hard way — by reasoning, verifying, and maintaining them
 after they break.
 
-I use AI to *think with*, not to skip thinking 🤝
+I use AI to *think with*, not to skip thinking 🤝  
 If something doesn’t make sense, I stop, trace it, cross-check it
 (docs, articles, Stack Overflow), and only then ship.
 
