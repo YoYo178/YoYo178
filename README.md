@@ -33,6 +33,17 @@ I value clarity, correctness, and maintainability over cleverness.
 - **Notes App** — media support + AWS S3
 - Open-source contributor & project maintainer
 
+#### Profile statistics:
+<img src="./profile/stats-card.svg" />
+
+#### Pinned repository:
+<img src="./profile/pin-repo-card.svg" />
+
+#### Latest repository:
+<img src="./profile/latest-repo-card.svg" />
+
+<br>
+
 If it’s on my GitHub, I can explain *why* it exists and *how* it works.
 
 ---
