@@ -36,8 +36,12 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Fetch only public repos, sort by creation date, exclude the profile repo itself
-          REPO_NAME=$(gh repo list ${{ github.repository_owner }} --public --limit 1 --json name --sort created --order desc -q ".[0].name")
+          REPO_NAME=$( \
+            gh repo list ${{ github.repository_owner }} \
+            --visibility=public \
+            --limit 100 \
+            --json name,createdAt,url \
+            --jq "sort_by(.createdAt) | reverse | .[0].name")
           echo "REPO_NAME=$REPO_NAME" >> $GITHUB_OUTPUT
 
       - name: Generate latest repository card
