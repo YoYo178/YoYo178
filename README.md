@@ -30,7 +30,7 @@ I value clarity, correctness, and maintainability over cleverness.
 
 - **Talketeer** — live chat app, real users, real infra
 - **Chess API** — full game logic + REST API from scratch
-- **Notes App** — media support + AWS S3
+- **Notes App** — media support + files management using Multer
 - Open-source contributor & project maintainer
 
 #### Profile statistics:
