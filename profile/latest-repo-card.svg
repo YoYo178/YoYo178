@@ -87,7 +87,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >system-statistics-dashboard</text>
+      >build-your-own-raytracer-js</text>
     </g>
       </g>
     
@@ -100,14 +100,14 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">A project for practicing microservices architecture,</tspan><tspan dy="1.2em" x="25">monorepo, and IPC.</tspan>
+      <tspan dy="1.2em" x="25">A Javascript + Canvas 2D implementation of the projects in</tspan><tspan dy="1.2em" x="25">https://avik-das.github.io/build-your-own-raytracer/</tspan>
     </text>
 
     <g transform="translate(30, 65)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#3178c6" />
-      <text data-testid="lang-name" class="gray" x="15">TypeScript</text>
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#f1e05a" />
+      <text data-testid="lang-name" class="gray" x="15">JavaScript</text>
     </g>
     </g>
     </g>
