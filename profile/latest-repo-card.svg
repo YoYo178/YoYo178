@@ -1,8 +1,8 @@
 
       <svg
         width="400"
-        height="150"
-        viewBox="0 0 400 150"
+        height="120"
+        viewBox="0 0 400 120"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -109,7 +109,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >pdflyzer</text>
+      >mailist</text>
     </g>
       </g>
     
@@ -122,16 +122,11 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">An AI-powered RAG application that lets you upload PDFs,</tspan><tspan dy="1.2em" x="25">chat with their contents, and get context-aware answers with</tspan><tspan dy="1.2em" x="25">source citations. Built with FastAPI, MongoDB, Sentence...</tspan>
+      <tspan dy="1.2em" x="25">An Email triage AI agent</tspan>
     </text>
 
-    <g transform="translate(30, 75)">
-      <g transform="translate(0, 0)">
-    <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#3178c6" />
-      <text data-testid="lang-name" class="gray" x="15">TypeScript</text>
-    </g>
-    </g><g transform="translate(80.53999967575072, 0)"><g transform="translate(0, 0)">
+    <g transform="translate(30, 45)">
+      <g transform="translate(0, 0)"><g transform="translate(0, 0)">
       <svg
         class="icon"
         y="-12"
@@ -145,7 +140,7 @@
     </g><g transform="translate(20, 0)"><text data-testid="stargazers" class="gray">1</text></g></g>
     </g>
     
-  <svg x="0" y="0"><g transform="translate(-3, 98)">
+  <svg x="0" y="0"><g transform="translate(-3, 68)">
       
     </g></svg>
     
